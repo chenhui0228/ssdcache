@@ -1,0 +1,4 @@
+kernel//root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache.ko
+kernel//root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_lru.ko
+kernel//root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_fifo.ko
+kernel//root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_rand.ko

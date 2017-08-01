@@ -1,0 +1,1 @@
+cmd_/root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_lru.o := ld -m elf_x86_64   -r -o /root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_lru.o /root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/eio_lru.o ; scripts/mod/modpost /root/ssdcache-code/ws-smartcache-1.0.0/Driver/enhanceio/sfsmartcache_lru.o
